@@ -1,0 +1,14 @@
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    .header-nav{
+        display: flex;
+        line-height: 35px;
+    }
+    .header-nav:first-child{
+        background: #ffbb42;;
+    }
+} 
